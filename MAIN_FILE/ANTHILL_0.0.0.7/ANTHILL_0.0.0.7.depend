@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554838471 source:/home/developer/AnthillEngine_0.0.0.1/AnthillEngine_0.0.0.1/MAIN_FILE/ANTHILL_0.0.0.7/EnterPoint.cpp
+	<stdio.h>
+	<X11/Xlib.h>
+

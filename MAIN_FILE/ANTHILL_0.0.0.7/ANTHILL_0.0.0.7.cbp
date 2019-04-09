@@ -7,7 +7,7 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Release">
-				<Option output="../ANTHILL_0.0.0.7" prefix_auto="1" extension_auto="1" />
+				<Option output="../ANTHILL_0.0" prefix_auto="1" extension_auto="1" />
 				<Option object_output="main_obj/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,6 +16,7 @@
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
+					<Add library="X11" />
 				</Linker>
 			</Target>
 		</Build>
